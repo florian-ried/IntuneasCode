@@ -1,0 +1,9 @@
+{
+    "value":  [
+                  "{\r\n    \"@odata.type\":  \"#microsoft.graph.windowsDeliveryOptimizationConfiguration\",\r\n    \"roleScopeTagIds\":  [\r\n                            \"0\"\r\n                        ],\r\n    \"supportsScopeTags\":  false,\r\n    \"deviceManagementApplicabilityRuleOsEdition\":  null,\r\n    \"deviceManagementApplicabilityRuleOsVersion\":  null,\r\n    \"deviceManagementApplicabilityRuleDeviceMode\":  null,\r\n    \"description\":  null,\r\n    \"displayName\":  \"AVD Test-restore-27-02-2023-10-37-35\",\r\n    \"deliveryOptimizationMode\":  \"httpWithInternetPeering\",\r\n    \"restrictPeerSelectionBy\":  \"notConfigured\",\r\n    \"groupIdSource\":  null,\r\n    \"backgroundDownloadFromHttpDelayInSeconds\":  0,\r\n    \"foregroundDownloadFromHttpDelayInSeconds\":  null,\r\n    \"minimumRamAllowedToPeerInGigabytes\":  null,\r\n    \"minimumDiskSizeAllowedToPeerInGigabytes\":  15,\r\n    \"minimumFileSizeToCacheInMegabytes\":  null,\r\n    \"minimumBatteryPercentageAllowedToUpload\":  null,\r\n    \"modifyCacheLocation\":  null,\r\n    \"maximumCacheAgeInDays\":  null,\r\n    \"maximumCacheSize\":  null,\r\n    \"vpnPeerCaching\":  \"enabled\",\r\n    \"cacheServerHostNames\":  [\r\n\r\n                             ],\r\n    \"cacheServerForegroundDownloadFallbackToHttpDelayInSeconds\":  0,\r\n    \"cacheServerBackgroundDownloadFallbackToHttpDelayInSeconds\":  0,\r\n    \"bandwidthMode\":  {\r\n                          \"@odata.type\":  \"#microsoft.graph.deliveryOptimizationBandwidthPercentage\",\r\n                          \"maximumBackgroundBandwidthPercentage\":  null,\r\n                          \"maximumForegroundBandwidthPercentage\":  null\r\n                      }\r\n}",
+                  "https://graph.microsoft.com/beta/deviceManagement/deviceConfigurations",
+                  "AVD Test",
+                  "b0757cf7-3b1f-45fd-b91b-233e972b7c54"
+              ],
+    "Count":  4
+}
