@@ -1,0 +1,8 @@
+{
+    "value":  [
+                  "{\r\n    \"@odata.context\":  \"https://graph.microsoft.com/beta/$metadata#deviceManagement/virtualEndpoint/userSettings/$entity\",\r\n    \"displayName\":  \"Default User settings-restore-27-02-2023-10-53-54\",\r\n    \"selfServiceEnabled\":  false,\r\n    \"localAdminEnabled\":  false,\r\n    \"restorePointSetting\":  {\r\n                                \"frequencyInHours\":  12,\r\n                                \"userRestoreEnabled\":  true\r\n                            }\r\n}",
+                  "https://graph.microsoft.com/beta/deviceManagement/virtualEndpoint/userSettings",
+                  "f0689e23-fd46-4eb4-b400-33b73f6f126a"
+              ],
+    "Count":  3
+}
