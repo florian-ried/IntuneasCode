@@ -1,0 +1,9 @@
+{
+    "value":  [
+                  "{\r\n    \"description\":  \"App assigment: winget \",\r\n    \"displayName\":  \"APP-WIN-winget-restore-27-02-2023-10-39-50\",\r\n    \"groupTypes\":  [\r\n\r\n                   ],\r\n    \"mailEnabled\":  false,\r\n    \"mailNickname\":  \"APP-WIN-winget\",\r\n    \"securityEnabled\":  true,\r\n    \"isAssignableToRole\":  null,\r\n    \"membershipRule\":  null,\r\n    \"membershipRuleProcessingState\":  null\r\n}",
+                  "https://graph.microsoft.com/beta/groups",
+                  "APP-WIN-winget",
+                  "d8318a4c-1e98-401d-bfa9-75432ec5d3ae"
+              ],
+    "Count":  4
+}
